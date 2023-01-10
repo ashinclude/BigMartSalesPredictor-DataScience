@@ -5,6 +5,9 @@ This model will try to understand the properties of products and stores which pl
 In this project the visitor will come to know 
 
 1: Data Exploration 
+
 2: Data Cleaning 
+
 3: Feature Engineering 
+
 4: Creating Models
